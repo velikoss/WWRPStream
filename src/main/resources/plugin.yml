@@ -1,0 +1,11 @@
+name: WWRPStream
+version: ${project.version}
+main: me.velikoss.wwrpstream.Stream
+api-version: 1.18
+authors: [ velikoss ]
+description: WWRPStream
+commands:
+  stream:
+    permission: op
+  block:
+  unblock:
